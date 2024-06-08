@@ -1,0 +1,2 @@
+some sample text
+modified new_feature file
