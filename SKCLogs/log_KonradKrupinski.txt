@@ -1,0 +1,46 @@
+[33mcommit 64d7ad32446b86afb4c80e13298b64e45a565a23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 7c2d631 e31b725
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Mon Jun 10 10:52:06 2024 +0200
+
+    Merge branch 'new_feature'
+    
+            deleted:    new_feature.txt
+
+[33mcommit 7c2d6310413216c67f9bcb35ad11686d313d2a17[m
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Mon Jun 10 10:49:30 2024 +0200
+
+            new file:   config.txt
+            modified:   readme.txt
+
+[33mcommit e31b725038e09984709289d4de4b9c42aad453f0[m[33m ([m[1;32mnew_feature[m[33m)[m
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Mon Jun 10 10:45:57 2024 +0200
+
+            modified:   new_feature.txt
+
+[33mcommit 8f662b168ffcd093a0d15bd01134ffa9d2068393[m
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Mon Jun 10 10:45:32 2024 +0200
+
+            new file:   new_feature.txt
+
+[33mcommit 2b4b46831fd1790a60bdfbbe72b84489b361cd7e[m
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Mon Jun 10 10:43:51 2024 +0200
+
+            modified:   new_feature
+            new file:   new_feature.txt
+
+[33mcommit 8167cf24f66a03de42a58d77ca039c640f19e2af[m
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Mon Jun 10 10:41:47 2024 +0200
+
+            new file:   new_feature
+
+[33mcommit 17bb0e7d6c533e001c14bd781d291cfe547b88b9[m
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Mon Jun 10 10:38:59 2024 +0200
+
+            new file:   readme.txt
