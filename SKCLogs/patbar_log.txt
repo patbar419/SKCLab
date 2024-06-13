@@ -1,0 +1,48 @@
+commit 1f5f61bd07207d7f7f63c209839142f16af3ff13
+Author: Kozinski43211 <mkoz43211@wp.pl>
+Date:   Tue Jun 11 19:52:45 2024 +0200
+
+    Revert "added Log_mkozinski.txt to branch mkozi"
+    
+    This reverts commit 2142b1aca728bfb310aa9023893815cc873e43d8.
+
+commit 2142b1aca728bfb310aa9023893815cc873e43d8
+Author: Kozinski43211 <mkoz43211@wp.pl>
+Date:   Tue Jun 11 19:32:37 2024 +0200
+
+    added Log_mkozinski.txt to branch mkozi
+
+commit 67ffa3cb6795ca9d3792ac922c6dc41e81a9d40f
+Merge: 81827b9 1a4c7b2
+Author: Slimoti <62178043+QueenHekapoo@users.noreply.github.com>
+Date:   Tue Jun 11 10:11:24 2024 +0200
+
+    Merge pull request #4 from ArturMosakowski/konkru
+    
+            new file:   log_KonradKrupinski.txt
+
+commit 1a4c7b2109ca1897a0c049f88e37c909663cf03e
+Author: Slimoti <konrad.krupin@gmail.com>
+Date:   Tue Jun 11 10:10:15 2024 +0200
+
+            new file:   log_KonradKrupinski.txt
+
+commit 81827b958a7d6d8fcf2eeef80bf9cf32d4e3645c
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 12:14:31 2024 +0200
+
+    added SKCLogs folder
+
+commit 69411152cadceca41b77b21461954bc77346c0e7
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:30:49 2024 +0200
+
+    added Log.txt
+
+commit 5513b9563291f5977cb5a7c22398d7e5cfe92d9a
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:20:26 2024 +0200
+
+    init
+    
+    init
