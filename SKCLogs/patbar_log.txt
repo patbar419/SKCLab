@@ -1,48 +1,48 @@
-commit 1f5f61bd07207d7f7f63c209839142f16af3ff13
-Author: Kozinski43211 <mkoz43211@wp.pl>
-Date:   Tue Jun 11 19:52:45 2024 +0200
+commit 0cda355df63f6df3320456c801f9f69eb0e73f2e
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:31:49 2024 +0200
 
-    Revert "added Log_mkozinski.txt to branch mkozi"
-    
-    This reverts commit 2142b1aca728bfb310aa9023893815cc873e43d8.
+    modyfikacja myConflicts.txt w data_fix
 
-commit 2142b1aca728bfb310aa9023893815cc873e43d8
-Author: Kozinski43211 <mkoz43211@wp.pl>
-Date:   Tue Jun 11 19:32:37 2024 +0200
+commit 60b028f1a0dc7344384bc7e50e832e5094aa10cf
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:30:29 2024 +0200
 
-    added Log_mkozinski.txt to branch mkozi
+    modyfikacja myConflicts.txt w masterze
 
-commit 67ffa3cb6795ca9d3792ac922c6dc41e81a9d40f
-Merge: 81827b9 1a4c7b2
-Author: Slimoti <62178043+QueenHekapoo@users.noreply.github.com>
-Date:   Tue Jun 11 10:11:24 2024 +0200
+commit 81b3a74b45b8fd3e8fca5001a094b0efb312a002
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:29:13 2024 +0200
 
-    Merge pull request #4 from ArturMosakowski/konkru
-    
-            new file:   log_KonradKrupinski.txt
+    dodanie
 
-commit 1a4c7b2109ca1897a0c049f88e37c909663cf03e
-Author: Slimoti <konrad.krupin@gmail.com>
-Date:   Tue Jun 11 10:10:15 2024 +0200
+commit 6d17f7d5e79fc4d78234cd72e7f17cf257c72d60
+Merge: 2bd3aa1 d6eb244
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:25:04 2024 +0200
 
-            new file:   log_KonradKrupinski.txt
+    Merge branch 'new_feature'
 
-commit 81827b958a7d6d8fcf2eeef80bf9cf32d4e3645c
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Sat Jun 8 12:14:31 2024 +0200
+commit 2bd3aa1d10fc3518f386d2521e0bb6de4114c6e7
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:24:47 2024 +0200
 
-    added SKCLogs folder
+    modyifikacja Readme.txt i Config.txt
 
-commit 69411152cadceca41b77b21461954bc77346c0e7
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Sat Jun 8 11:30:49 2024 +0200
+commit d6eb244fea28b80820b8996dd571bc8d5cfebefb
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:21:22 2024 +0200
 
-    added Log.txt
+    modyfikacja
 
-commit 5513b9563291f5977cb5a7c22398d7e5cfe92d9a
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Sat Jun 8 11:20:26 2024 +0200
+commit ed2b7123c7af57994f01c38adcd1761d1038c712
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:20:44 2024 +0200
 
-    init
-    
-    init
+    dodano
+
+commit b414d3fd5e8a1d7433ecdca6badcc808304d5d56
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:19:25 2024 +0200
+
+    Dodanie readme.txt z imieniem i nazwiskiem
